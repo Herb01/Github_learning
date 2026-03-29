@@ -1,5 +1,5 @@
 #! /usr/bin/python3
 
 """ A simple example description
-can span multiple lines """
+can span multiple lines. """
 
